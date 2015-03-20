@@ -1,5 +1,5 @@
 # testing
-For testing different git workflows, because we don't understand
+For testing different git workflows, to have a full understanding!!
 
 ## First commit
 Made on the mainline upstream
