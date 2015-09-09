@@ -7,4 +7,6 @@ class diego
 	rebase rebase rebase
 	public:
 	merge merge merge
+			
+	ClassDef(diego,1)//another great class
 };
