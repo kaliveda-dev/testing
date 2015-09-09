@@ -3,3 +3,4 @@ This really needs deleting
 This is some work done while Diego made a new class.
 Now let's see if rebasing works.
 And with automatic rebase?
+But what if we have a conflict?
