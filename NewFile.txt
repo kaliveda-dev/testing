@@ -1,3 +1,4 @@
 This is an important new file
 This really needs deleting
 This is some work done while Diego made a new class.
+Now let's see if rebasing works.
