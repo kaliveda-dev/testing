@@ -1,4 +1,5 @@
 // new class file
+// This class looks like shit
 
 class diego
 {
